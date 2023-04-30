@@ -14,7 +14,7 @@
 2. asdasdas
 3. afsafsda
 
-<div style="width: 200px; height: 200px; background-color: red;"></div>
+<div style="width:400px; height: 200px; background-color: red;"></div>
 
 
 
